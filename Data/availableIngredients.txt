@@ -1,0 +1,6 @@
+redFlower 255 0 0
+blueFlower 0 0 255
+greenFlower 0 255 0
+redFlower 255 0 0
+blueFlower 0 0 255
+greenFlower 0 255 0

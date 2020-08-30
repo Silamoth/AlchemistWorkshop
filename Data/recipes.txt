@@ -1,0 +1,1 @@
+redFlower+greenFlower+blueFlower=healthPotion;150,34,34
